@@ -3,7 +3,7 @@ The Pennsylvania State University
 Astronomy and Astrophysics Major  
 Class of 2019  
 
-You can use the [editor on GitHub](https://github.com/aromedtbf/aromedtbf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my webpage for Stat 184. This 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
