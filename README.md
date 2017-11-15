@@ -1,4 +1,7 @@
-## Stat 184
+**Anthony Roman**  
+The Pennsylvania State University  
+Astronomy and Astrophysics Major  
+Class of 2019  
 
 You can use the [editor on GitHub](https://github.com/aromedtbf/aromedtbf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
